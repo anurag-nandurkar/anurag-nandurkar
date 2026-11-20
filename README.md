@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  Building at Brightplus · Pune, India
+  Building at Freightnaut · Loni, India
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-work/">LinkedIn</a> ·
+   <a href="https://app.freightnaut.com">Freightnaut</a> .
   <a href="https://dragify.brightplus.pro">Dragify</a>
 </p>
 
